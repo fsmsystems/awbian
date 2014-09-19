@@ -7,4 +7,4 @@ It is primarly targeted at power users, developers and any people dealing with e
 
 Boot on RAM
 
-Download from: http://awbian.zsh.jp
+Download from: http://awbian.com
